@@ -1,0 +1,87 @@
+﻿@model Student
+@{
+    ViewBag.Title = "Create Student";
+    Layout = "~/Views/Shared/MyLayoutHelper.cshtml";
+}
+<div>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <form asp-controller="Student" asp-action="Create" method="post" class="mt-3">
+
+        <div style="margin-top: 7px" class="form-group row">
+            <label asp-for="Name" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-10">
+                <input asp-for="Name" class="form-group" placeholder="Họ tên"/>
+            </div>
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div style="margin-top: 7px" class="form-group row">
+            <label asp-for="Email" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-10">
+                <input asp-for="Email" class="form-group" placeholder="Email"/>
+            </div>
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div style="margin-top: 7px" class="form-group row">
+            <label asp-for="Password" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-10">
+                <input asp-for="Password" class="form-group" placeholder="Password"/>
+            </div>
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+        <div style="margin-top: 7px" class="form-group row">
+            <label asp-for="Branch" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-10">
+                <select asp-for="Branch" class="custom-select me-sm-2"
+                        asp-items="Html.GetEnumSelectList<Branch>()"></select>
+                @*<select asp-for="Gender" asp-items="ViewBag.AllBranches">*@
+            </div>
+            <span asp-validation-for="Branch" class="text-danger"></span>
+        </div>
+        <div style="margin-top: 7px" class="form-group row">
+            <label asp-for="IsRegular" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-10">
+                <input type="checkbox" asp-for="IsRegular" class="custom-control-input"/>
+            </div>
+            <span asp-validation-for="IsRegular" class="text-danger"></span>
+        </div>
+        <div style="margin-top: 7px" class="form-group row">
+            <label asp-for="Dob" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-10">
+                <input asp-for="Dob" class="form-group" placeholder="Dob"/>
+            </div>
+            <span asp-validation-for="Dob" class="text-danger"></span>
+        </div>
+        <div style="margin-top: 7px" class="form-group row">
+            <label asp-for="Gender" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-10">
+                @foreach (var gender in ViewBag.AllGenders)
+                {
+                    <label class="radio-inline">
+                        <input type="radio" asp-for="Gender" value="@gender" id="Gender@(gender)"/>@gender<br/>
+                    </label>
+                }
+            </div>
+            <span asp-validation-for="Gender" class="text-danger"></span>
+        </div>
+        <div style="margin-top: 7px" class="form-group row">
+            <label asp-for="Address" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-10">
+                <input asp-for="Address" class="form-group" placeholder="Address"/>
+            </div>
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+        <div style="margin-top: 7px" class="form-group row">
+            <label asp-for="Score" class="col-sm-2 col-form-label"></label>
+            <div class="col-sm-10">
+                <input asp-for="Score" class="form-group" placeholder="Score"/>
+            </div>
+            <span asp-validation-for="Score" class="text-danger"></span>
+        </div>
+        <div style="margin-top: 10px" class="form-group row">
+
+            <div class="col-sm-10">
+                <button type="submit" class="btn btn-primary">Create</button>
+            </div>
+        </div>
+    </form>
+</div>
