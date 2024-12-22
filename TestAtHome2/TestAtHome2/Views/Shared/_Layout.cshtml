@@ -1,0 +1,29 @@
+﻿@using TestAtHome2.Data
+@inject QlhangHoaContext _context
+
+@{
+    var loaiHangs = _context.LoaiHangs.ToList();
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+</head>
+<body>
+<div class="wrap">
+    @await Html.PartialAsync("_Header", loaiHangs)
+    <div class="main">
+        @RenderBody()
+    </div>
+</div>
+@await Html.PartialAsync("_Footer")
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

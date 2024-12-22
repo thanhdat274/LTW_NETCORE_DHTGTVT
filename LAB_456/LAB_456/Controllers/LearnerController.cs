@@ -15,20 +15,74 @@ public class LearnerController : Controller
         db = context;
     }
 
+    private int pageSize = 3;
+
     public IActionResult Index(int? mid)
     {
-        if (mid == null)
+        var learners = (IQueryable<Learner>)db.Learners
+            .Include(m => m.Major);
+        if (mid != null)
         {
-            var learner = db.Learners.Include(m => m.MajorID).ToList();
-            return View(learner);
-        }
-        else
-        {
-            var learner = db.Learners
+            learners = (IQueryable<Learner>)db.Learners
                 .Where(l => l.MajorID == mid)
-                .Include(m => m.MajorID).ToList();
-            return View(learner);
+                .Include(m => m.Major).ToList();
+            return View(learners);
         }
+
+        //tính số trang
+        int pageNum = (int)Math.Ceiling(learners.Count() / (float)pageSize);
+        //trả số trang về view để hiển thị nav-trang
+        ViewBag.pageNum = pageNum;
+        //lấy dữ liệu trang đầu
+        var result = learners.Take(pageSize).ToList();
+        return View(result);
+    }
+
+    public IActionResult LearnerFilter(int? mid, string? keyword, int? pageIndex)
+    {
+        // lấy toàn bộ learners trong dbset chuyển về IQueryable< Learner > để query
+        var learners = (IQueryable<Learner>)db.Learners;
+
+        // lấy chỉ số trang, nếu chỉ số trang null thì gán ngầm định bằng 1
+        int page = (int)(pageIndex == null || pageIndex <= 0 ? 1 : pageIndex);
+
+        // nếu có mid thì lọc learner theo mid (chuyên ngành)
+        if (mid != null)
+        {
+            // lọc
+            learners = learners.Where(l => l.MajorID == mid);
+            // gửi mid về view để ghi lại trên nav-phân trang
+            ViewBag.mid = mid;
+        }
+
+        // nếu có keyword thì tìm kiếm theo tên
+        if (keyword != null)
+        {
+            // tìm kiếm
+            learners = learners.Where(l => l.FirstMidName.ToLower()
+                .Contains(keyword.ToLower()));
+            // gửi keyword về view để ghi trên nav-phân trang
+            ViewBag.keyword = keyword;
+        }
+
+        // tính số trang
+        int pageNum = (int)Math.Ceiling(learners.Count() / (float)pageSize);
+        // gửi số trang về view để hiển thị nav-trang
+        ViewBag.pageNum = pageNum;
+
+        // chọn dữ liệu trong trang hiện tại
+        var result = learners.Skip(pageSize * (page - 1))
+            .Take(pageSize).Include(m => m.Major);
+
+        return PartialView("LearnerTable", result);
+    }
+
+    public IActionResult LearnerByMajorId(int mid)
+    {
+        var learner = db.Learners
+            .Where(l => l.MajorID == mid)
+            .Include(m => m.Major).ToList();
+        return PartialView("LearnerTable", learner);
     }
 
     public IActionResult Create()
@@ -40,7 +94,7 @@ public class LearnerController : Controller
             majors.Add(new SelectListItem { Text = item.MajorName, Value = item.MajorID.ToString() });
         }
 
-        ViewBag.MajorID = new SelectList(db.Majors, "MajorID", "MajorName"); // Cách 2
+        ViewBag.MajorId = new SelectList(db.Majors, "MajorID", "MajorName"); // Cách 2
         return View();
     }
 
@@ -56,7 +110,7 @@ public class LearnerController : Controller
         }
 
         // Dùng 1 trong 2 cách tạo SelectList gửi về View để hiển thị danh sách Majors
-        ViewBag.MajorID = new SelectList(db.Majors, "MajorID", "MajorName");
+        ViewBag.MajorId = new SelectList(db.Majors, "MajorID", "MajorName");
         return View();
     }
 
@@ -75,13 +129,15 @@ public class LearnerController : Controller
             return NotFound();
         }
 
-        ViewBag.MajorID = new SelectList(db.Majors, "MajorID", "MajorName", learner.MajorID);
+        ViewBag.MajorId = new SelectList(db.Majors, "MajorID", "MajorName", learner.MajorID);
         return View(learner);
     }
 
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public IActionResult Edit(int id, [Bind("LearnerID,FirstMidName,LastName,MajorID,EnrollmentDate")] Learner learner)
+    public IActionResult Edit(int id,
+        [Bind("LearnerID,FirstMidName,LastName,MajorID,EnrollmentDate")]
+        Learner learner)
     {
         if (id != learner.LearnerID)
         {
@@ -110,7 +166,7 @@ public class LearnerController : Controller
             return RedirectToAction(nameof(Index));
         }
 
-        ViewBag.MajorID = new SelectList(db.Majors, "MajorID", "MajorName", learner.MajorID);
+        ViewBag.MajorId = new SelectList(db.Majors, "MajorID", "MajorName", learner.MajorID);
         return View(learner);
     }
 

@@ -6,6 +6,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
     <ItemGroup>
+        <Folder Include="obj\" />
         <Folder Include="Pages\" />
     </ItemGroup>
 

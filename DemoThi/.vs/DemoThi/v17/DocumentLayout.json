@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\views\\shared\\components\\datntmenu\\renderdatntmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\views\\shared\\components\\datntmenu\\renderdatntmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\views\\shared\\datntheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\views\\shared\\datntheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\views\\shared\\dantfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\views\\shared\\dantfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\views\\hanghoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\views\\hanghoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\views\\hanghoa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\views\\hanghoa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\views\\hanghoa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\views\\hanghoa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\views\\hanghoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\views\\hanghoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\viewcomponent\\datntmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\viewcomponent\\datntmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\models\\qlhanghoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\models\\qlhanghoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\models\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\models\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|c:\\users\\admin\\desktop\\ltw\\demothi\\demothi\\models\\tblaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C084B7-1206-429F-9DA7-4AB67BAF68A1}|DemoThi\\DemoThi.csproj|solutionrelative:demothi\\models\\tblaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RenderDatntMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Shared\\Components\\DatntMenu\\RenderDatntMenu.cshtml",
+              "RelativeDocumentMoniker": "DemoThi\\Views\\Shared\\Components\\DatntMenu\\RenderDatntMenu.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Shared\\Components\\DatntMenu\\RenderDatntMenu.cshtml",
+              "RelativeToolTip": "DemoThi\\Views\\Shared\\Components\\DatntMenu\\RenderDatntMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:48:54.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DemoThi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DemoThi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:48:51.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatntHeader.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Shared\\DatntHeader.cshtml",
+              "RelativeDocumentMoniker": "DemoThi\\Views\\Shared\\DatntHeader.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Shared\\DatntHeader.cshtml",
+              "RelativeToolTip": "DemoThi\\Views\\Shared\\DatntHeader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:48:49.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DantFooter.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Shared\\DantFooter.cshtml",
+              "RelativeDocumentMoniker": "DemoThi\\Views\\Shared\\DantFooter.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Shared\\DantFooter.cshtml",
+              "RelativeToolTip": "DemoThi\\Views\\Shared\\DantFooter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:48:47.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DemoThi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DemoThi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:48:46.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DemoThi\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DemoThi\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:48:42.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoThi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DemoThi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:48:39.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\HangHoa\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DemoThi\\Views\\HangHoa\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\HangHoa\\Edit.cshtml",
+              "RelativeToolTip": "DemoThi\\Views\\HangHoa\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:48:34.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\HangHoa\\Details.cshtml",
+              "RelativeDocumentMoniker": "DemoThi\\Views\\HangHoa\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\HangHoa\\Details.cshtml",
+              "RelativeToolTip": "DemoThi\\Views\\HangHoa\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:48:19.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\HangHoa\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DemoThi\\Views\\HangHoa\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\HangHoa\\Delete.cshtml",
+              "RelativeToolTip": "DemoThi\\Views\\HangHoa\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:48:15.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\HangHoa\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoThi\\Views\\HangHoa\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Views\\HangHoa\\Create.cshtml",
+              "RelativeToolTip": "DemoThi\\Views\\HangHoa\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T14:48:14.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatntMenuViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\ViewComponent\\DatntMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "DemoThi\\ViewComponent\\DatntMenuViewComponent.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\ViewComponent\\DatntMenuViewComponent.cs",
+              "RelativeToolTip": "DemoThi\\ViewComponent\\DatntMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:48:06.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QlhangHoaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Models\\QlhangHoaContext.cs",
+              "RelativeDocumentMoniker": "DemoThi\\Models\\QlhangHoaContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Models\\QlhangHoaContext.cs",
+              "RelativeToolTip": "DemoThi\\Models\\QlhangHoaContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:48:01.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "DemoThi\\Controllers\\HangHoaController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "DemoThi\\Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwEkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T04:12:36.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "DemoThi\\Models\\HangHoa.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Models\\HangHoa.cs",
+              "RelativeToolTip": "DemoThi\\Models\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:59:08.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TblAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Models\\TblAccount.cs",
+              "RelativeDocumentMoniker": "DemoThi\\Models\\TblAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Models\\TblAccount.cs",
+              "RelativeToolTip": "DemoThi\\Models\\TblAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:59:05.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoaiHang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Models\\LoaiHang.cs",
+              "RelativeDocumentMoniker": "DemoThi\\Models\\LoaiHang.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LTW\\DemoThi\\DemoThi\\Models\\LoaiHang.cs",
+              "RelativeToolTip": "DemoThi\\Models\\LoaiHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:59:03.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

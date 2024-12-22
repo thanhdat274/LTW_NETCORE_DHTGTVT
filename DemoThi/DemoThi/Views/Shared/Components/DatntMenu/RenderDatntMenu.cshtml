@@ -1,0 +1,13 @@
+@model IEnumerable<LoaiHang>
+
+<ul>
+    <li class="active">
+        <a asp-action="Index">Nguyễn Thành Đạt</a>
+    </li>
+    @foreach (var i in Model)
+    {
+        <li>
+            <a asp-controller="HangHoa" asp-action="Index" asp-route-mid="@i.MaLoai">@i.TenLoai</a>
+        </li>
+    }
+</ul>

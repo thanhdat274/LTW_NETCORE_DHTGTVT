@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/TestAtHome2.props" />
+</Project>
