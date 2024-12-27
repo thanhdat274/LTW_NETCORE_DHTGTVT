@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DemoThiv2.props" />
+</Project>

@@ -1,0 +1,43 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>@ViewData["Title"] Spike Free</title>
+  <link rel="shortcut icon" type="~/image/png" href="~/images/logos/favicon.png"/>
+  <link rel="stylesheet" href="~/css/styles.min.css"/>
+</head>
+
+<body>
+<div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
+     data-sidebar-position="fixed" data-header-position="fixed">
+  <!-- LeftSidebar Start -->
+  <aside id="aside" class="left-sidebar">
+    <!-- Sidebar scroll-->
+    <partial name="LeftSibar"/>
+    <!-- End Sidebar scroll-->
+  </aside>
+  <!--  LeftSidebar End -->
+  <div class="body-wrapper">
+    <!--  Header Start -->
+    <header id="header" class="app-header">
+      <partial name="DatntHeader"/>
+    </header>
+    <!--  Header End -->
+    <!-- Main Start -->
+    <main id="main" class="container-fluid">
+      @RenderBody();
+    </main>
+    <!-- Main End -->
+    <!-- Footer Start -->
+    <partial name="DatntFooter"/>
+    <!-- Footer End -->
+  </div>
+</div>
+<script src="~/libs/jquery/dist/jquery.min.js"></script>
+<script src="~/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/app.min.js"></script>
+</body>
+
+</html>

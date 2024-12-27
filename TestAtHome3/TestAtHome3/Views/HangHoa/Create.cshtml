@@ -1,0 +1,48 @@
+@model HangHoa
+@{
+    ViewBag.Title = ViewBag.LoaiHang;
+    Layout = "_Layout";
+}
+
+<h2 class="mb-4">@ViewData["Title"]</h2>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<form asp-controller="HangHoa" asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group row">
+        <label asp-for="MaLoai" class="control-label col-12 mb-2">Mã Loại</label>
+        <div class="col-12">
+            <select asp-for="MaLoai" class="form-control" asp-items="ViewBag.LoaiHangs"></select>
+            <span asp-validation-for="MaLoai" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="TenHang" class="control-label col-12 mb-2">Tên hàng</label>
+        <div class="col-12">
+            <input asp-for="TenHang" class="form-control"/>
+            <span asp-validation-for="TenHang" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="Gia" class="control-label col-12 mb-2">Giá</label>
+        <div class="col-12">
+            <input asp-for="Gia" type="number" class="form-control"/>
+            <span asp-validation-for="Gia" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="Anh" class="control-label col-12 mb-2">Ảnh</label>
+        <div class="col-12">
+            <input asp-for="Anh" class="form-control"/>
+            <span asp-validation-for="Anh" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-12">
+            <input type="submit" value="Thêm mới" class="btn btn-primary"/>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

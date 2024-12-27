@@ -1,0 +1,85 @@
+﻿@model IEnumerable<NguyenThanhDat5230006.Models.Chuyen>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "DatntLayout";
+}
+<div class="card w-100">
+    <div class="card-body p-4">
+        <!-- CardAction Start -->
+        <div class="d-flex mb-4 justify-content-between align-items-center">
+            <div class="d-flex mb-0">
+                <label for="dstart" class="form-label mx-3 pt-2">Start: </label>
+                <select id="dstart" class="form-select">
+                    <option>Điểm đi</option>
+                    <option>Hà Nội</option>
+                </select>
+                <label for="dend" class="form-label mx-3 pt-2">End: </label>
+                <select id="dend" class="form-select">
+                    <option>Điểm đến</option>
+                    <option>Hải Phòng</option>
+                </select>
+            </div>
+            <div class="dropdown">
+                <button id="dropdownMenuButton1" data-bs-toggle="dropdown" class="btn btn-md px-2">
+                    Phân loại
+                </button>
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuButton1">
+                    <li><a class="dropdown-item" href="#">Action</a></li>
+                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- CardAction End -->
+        <!-- CardData Start -->
+        <div class="table-responsive" data-simplebar>
+            <table class="table table-borderless align-middle text-nowrap">
+                <thead>
+                <tr>
+                    <th scope="col">Chuyến xe</th>
+                    <th scope="col">Ngày</th>
+                    <th scope="col">Giờ</th>
+                    <th scope="col">Status</th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            <div class="d-flex align-items-center">
+                                <div class="me-4">
+                                    <img
+                                        src="~/images/cars/@item.Anh"
+                                        width="50"
+                                        class="rounded-circle"
+                                        alt=""/>
+                                </div>
+
+                                <div>
+                                    <h6 class="mb-1 fw-bolder">Hà Nội - Nam Định</h6>
+                                    <p class="fs-3 mb-0">@item.SoXe</p>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <p class="fs-3 fw-normal mb-0">@item.NgayGio</p>
+                        </td>
+                        <td>
+                            <p class="fs-3 fw-normal mb-0 text-success">
+                               @item.NgayGio
+                            </p>
+                        </td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.MaChuyen">Edit</a> |
+                            <a asp-action="Delete" asp-route-id="@item.MaChuyen">Delete</a>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+        <!-- CardData End -->
+    </div>
+</div>    

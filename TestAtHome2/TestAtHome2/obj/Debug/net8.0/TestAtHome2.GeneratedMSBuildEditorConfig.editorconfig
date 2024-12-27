@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestAtHome2
 build_property.RootNamespace = TestAtHome2
-build_property.ProjectDir = /Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/
+build_property.ProjectDir = C:\Users\Admin\Desktop\LTW\TestAtHome2\TestAtHome2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/anntl/RiderProjects/TestAtHome2/TestAtHome2
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\LTW\TestAtHome2\TestAtHome2
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/Views/HangHoa/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGFuZ0hvYS9DcmVhdGUuY3NodG1s
+[C:/Users/Admin/Desktop/LTW/TestAtHome2/TestAtHome2/Views/HangHoa/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/Views/HangHoa/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGFuZ0hvYS9JbmRleC5jc2h0bWw=
+[C:/Users/Admin/Desktop/LTW/TestAtHome2/TestAtHome2/Views/HangHoa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/Admin/Desktop/LTW/TestAtHome2/TestAtHome2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[C:/Users/Admin/Desktop/LTW/TestAtHome2/TestAtHome2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/Admin/Desktop/LTW/TestAtHome2/TestAtHome2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/Views/Shared/MyLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015TGF5b3V0LmNzaHRtbA==
+[C:/Users/Admin/Desktop/LTW/TestAtHome2/TestAtHome2/Views/Shared/MyLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE15TGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/Views/Shared/_Footer.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb290ZXIuY3NodG1s
+[C:/Users/Admin/Desktop/LTW/TestAtHome2/TestAtHome2/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/Views/Shared/_Header.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkZXIuY3NodG1s
+[C:/Users/Admin/Desktop/LTW/TestAtHome2/TestAtHome2/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/Admin/Desktop/LTW/TestAtHome2/TestAtHome2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/Admin/Desktop/LTW/TestAtHome2/TestAtHome2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/Admin/Desktop/LTW/TestAtHome2/TestAtHome2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-qvcmst3hbm
+[C:/Users/Admin/Desktop/LTW/TestAtHome2/TestAtHome2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ejkt132dnq

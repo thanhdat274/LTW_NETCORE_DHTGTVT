@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0nSjYo2+aORB6Rh864Ql3pHHNgvSZkORt3/IrcbYg4A=",
+  "Hash": "D9dpt/xb4i/VCZWzsxvUP7f4I++fVJkJBp5vg41J+40=",
   "Source": "TestAtHome2",
   "BasePath": "_content/TestAtHome2",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "TestAtHome2/wwwroot",
+      "Name": "TestAtHome2\\wwwroot",
       "Source": "TestAtHome2",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/obj/Debug/net8.0/scopedcss/bundle/TestAtHome2.styles.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TestAtHome2.styles.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "TestAtHome2.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/obj/Debug/net8.0/scopedcss/bundle/TestAtHome2.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TestAtHome2.styles.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/obj/Debug/net8.0/scopedcss/projectbundle/TestAtHome2.bundle.scp.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestAtHome2.bundle.scp.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "TestAtHome2.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/obj/Debug/net8.0/scopedcss/projectbundle/TestAtHome2.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestAtHome2.bundle.scp.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/css/easy-responsive-tabs.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\css\\easy-responsive-tabs.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "css/easy-responsive-tabs.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/easy-responsive-tabs.css"
+      "OriginalItemSpec": "wwwroot\\css\\easy-responsive-tabs.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/css/global.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\css\\global.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "css/global.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/global.css"
+      "OriginalItemSpec": "wwwroot\\css\\global.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/css/site.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\css\\site.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/css/slider.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\css\\slider.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "css/slider.css",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/slider.css"
+      "OriginalItemSpec": "wwwroot\\css\\slider.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/css/style.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\css\\style.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/style.css"
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/about_img.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\about_img.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/about_img.jpg",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/about_img.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\about_img.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/arrow_up.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\arrow_up.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/arrow_up.png",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/arrow_up.png"
+      "OriginalItemSpec": "wwwroot\\images\\arrow_up.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/arrow-next.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\arrow-next.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/arrow-next.png",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/arrow-next.png"
+      "OriginalItemSpec": "wwwroot\\images\\arrow-next.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/arrow-prev.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\arrow-prev.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/arrow-prev.png",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/arrow-prev.png"
+      "OriginalItemSpec": "wwwroot\\images\\arrow-prev.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/compare.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\compare.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/compare.png",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/compare.png"
+      "OriginalItemSpec": "wwwroot\\images\\compare.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/delivery-img1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\delivery-img1.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/delivery-img1.jpg",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/delivery-img1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\delivery-img1.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/delivery-img2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\delivery-img2.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/delivery-img2.jpg",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/delivery-img2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\delivery-img2.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/delivery-img3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\delivery-img3.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/delivery-img3.jpg",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/delivery-img3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\delivery-img3.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/dribbble.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\dribbble.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/dribbble.png",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/dribbble.png"
+      "OriginalItemSpec": "wwwroot\\images\\dribbble.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/drop_arrow-hover.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\drop_arrow-hover.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/drop_arrow-hover.png",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/drop_arrow-hover.png"
+      "OriginalItemSpec": "wwwroot\\images\\drop_arrow-hover.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/drop_arrow.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\drop_arrow.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/drop_arrow.png",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/drop_arrow.png"
+      "OriginalItemSpec": "wwwroot\\images\\drop_arrow.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/facebook.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\facebook.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/facebook.png",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/facebook.png"
+      "OriginalItemSpec": "wwwroot\\images\\facebook.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/feature-pic1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\feature-pic1.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/feature-pic1.jpg",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/feature-pic1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\feature-pic1.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/feature-pic2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\feature-pic2.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/feature-pic2.jpg",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/feature-pic2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\feature-pic2.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/feature-pic3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\feature-pic3.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/feature-pic3.jpg",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/feature-pic3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\feature-pic3.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/feature-pic4.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\feature-pic4.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/feature-pic4.jpg",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/feature-pic4.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\feature-pic4.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/Img_1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\Img_1.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/Img_1.jpg",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/Img_1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Img_1.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/Img_2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\Img_2.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/Img_2.jpg",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/Img_2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Img_2.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/Img_3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\Img_3.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/Img_3.jpg",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/Img_3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Img_3.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/Img_4.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\Img_4.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/Img_4.jpg",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/Img_4.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Img_4.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/Img_5.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\Img_5.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/Img_5.jpg",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/Img_5.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Img_5.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/Img_6.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\Img_6.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/Img_6.jpg",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/Img_6.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Img_6.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/linkedin.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\linkedin.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/linkedin.png",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/linkedin.png"
+      "OriginalItemSpec": "wwwroot\\images\\linkedin.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/list-img.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\list-img.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/list-img.png",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/list-img.png"
+      "OriginalItemSpec": "wwwroot\\images\\list-img.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/logo.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\logo.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/logo.png"
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/new-pic1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\new-pic1.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/new-pic1.jpg",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/new-pic1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\new-pic1.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/new-pic2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\new-pic2.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/new-pic2.jpg",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/new-pic2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\new-pic2.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/new-pic3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\new-pic3.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/new-pic3.jpg",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/new-pic3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\new-pic3.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/new-pic4.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\new-pic4.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/new-pic4.jpg",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/new-pic4.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\new-pic4.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/newsimg1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\newsimg1.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/newsimg1.jpg",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/newsimg1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\newsimg1.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/newsimg2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\newsimg2.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/newsimg2.jpg",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/newsimg2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\newsimg2.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/newsimg3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\newsimg3.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/newsimg3.jpg",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/newsimg3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\newsimg3.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/preview.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\preview.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/preview.jpg",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/preview.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\preview.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/price-rating.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\price-rating.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/price-rating.png",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/price-rating.png"
+      "OriginalItemSpec": "wwwroot\\images\\price-rating.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/productslide-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\productslide-1.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/productslide-1.jpg",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/productslide-1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\productslide-1.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/productslide-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\productslide-2.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/productslide-2.jpg",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/productslide-2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\productslide-2.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/productslide-3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\productslide-3.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/productslide-3.jpg",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/productslide-3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\productslide-3.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/productslide-4.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\productslide-4.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/productslide-4.jpg",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/productslide-4.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\productslide-4.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/productslide-5.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\productslide-5.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/productslide-5.jpg",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/productslide-5.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\productslide-5.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/productslide-6.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\productslide-6.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/productslide-6.jpg",
       "AssetKind": "All",
@@ -907,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/productslide-6.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\productslide-6.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/quality-rating.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\quality-rating.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/quality-rating.png",
       "AssetKind": "All",
@@ -926,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/quality-rating.png"
+      "OriginalItemSpec": "wwwroot\\images\\quality-rating.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/search.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\search.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/search.png",
       "AssetKind": "All",
@@ -945,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/search.png"
+      "OriginalItemSpec": "wwwroot\\images\\search.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/skype.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\skype.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/skype.png",
       "AssetKind": "All",
@@ -964,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/skype.png"
+      "OriginalItemSpec": "wwwroot\\images\\skype.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/slide-1-image.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\slide-1-image.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/slide-1-image.png",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/slide-1-image.png"
+      "OriginalItemSpec": "wwwroot\\images\\slide-1-image.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/slide-2-image.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\slide-2-image.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/slide-2-image.jpg",
       "AssetKind": "All",
@@ -1002,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/slide-2-image.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\slide-2-image.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/slide-3-image.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\slide-3-image.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/slide-3-image.jpg",
       "AssetKind": "All",
@@ -1021,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/slide-3-image.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\slide-3-image.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/tag.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\tag.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/tag.png",
       "AssetKind": "All",
@@ -1040,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/tag.png"
+      "OriginalItemSpec": "wwwroot\\images\\tag.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/thumbnailslide-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\thumbnailslide-1.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/thumbnailslide-1.jpg",
       "AssetKind": "All",
@@ -1059,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/thumbnailslide-1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\thumbnailslide-1.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/thumbnailslide-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\thumbnailslide-2.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/thumbnailslide-2.jpg",
       "AssetKind": "All",
@@ -1078,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/thumbnailslide-2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\thumbnailslide-2.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/thumbnailslide-3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\thumbnailslide-3.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/thumbnailslide-3.jpg",
       "AssetKind": "All",
@@ -1097,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/thumbnailslide-3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\thumbnailslide-3.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/thumbnailslide-4.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\thumbnailslide-4.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/thumbnailslide-4.jpg",
       "AssetKind": "All",
@@ -1116,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/thumbnailslide-4.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\thumbnailslide-4.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/thumbnailslide-5.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\thumbnailslide-5.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/thumbnailslide-5.jpg",
       "AssetKind": "All",
@@ -1135,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/thumbnailslide-5.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\thumbnailslide-5.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/thumbnailslide-6.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\thumbnailslide-6.jpg",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/thumbnailslide-6.jpg",
       "AssetKind": "All",
@@ -1154,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/thumbnailslide-6.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\thumbnailslide-6.jpg"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/Thumbs.db",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\Thumbs.db",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/Thumbs.db",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/Thumbs.db"
+      "OriginalItemSpec": "wwwroot\\images\\Thumbs.db"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/twitter.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\twitter.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/twitter.png",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/twitter.png"
+      "OriginalItemSpec": "wwwroot\\images\\twitter.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/value-rating.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\value-rating.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/value-rating.png",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/value-rating.png"
+      "OriginalItemSpec": "wwwroot\\images\\value-rating.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/images/wishlist.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\images\\wishlist.png",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "images/wishlist.png",
       "AssetKind": "All",
@@ -1230,13 +1230,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/wishlist.png"
+      "OriginalItemSpec": "wwwroot\\images\\wishlist.png"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/js/easing.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\js\\easing.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "js/easing.js",
       "AssetKind": "All",
@@ -1249,13 +1249,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/easing.js"
+      "OriginalItemSpec": "wwwroot\\js\\easing.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/js/easyResponsiveTabs.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\js\\easyResponsiveTabs.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "js/easyResponsiveTabs.js",
       "AssetKind": "All",
@@ -1268,13 +1268,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/easyResponsiveTabs.js"
+      "OriginalItemSpec": "wwwroot\\js\\easyResponsiveTabs.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/js/favicon.ico",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\js\\favicon.ico",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "js/favicon.ico",
       "AssetKind": "All",
@@ -1287,13 +1287,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\js\\favicon.ico"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/js/jquery-1.7.2.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\js\\jquery-1.7.2.min.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "js/jquery-1.7.2.min.js",
       "AssetKind": "All",
@@ -1306,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/jquery-1.7.2.min.js"
+      "OriginalItemSpec": "wwwroot\\js\\jquery-1.7.2.min.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/js/jquery.accordion.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\js\\jquery.accordion.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "js/jquery.accordion.js",
       "AssetKind": "All",
@@ -1325,13 +1325,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/jquery.accordion.js"
+      "OriginalItemSpec": "wwwroot\\js\\jquery.accordion.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/js/jquery.easing.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\js\\jquery.easing.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "js/jquery.easing.js",
       "AssetKind": "All",
@@ -1344,13 +1344,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/jquery.easing.js"
+      "OriginalItemSpec": "wwwroot\\js\\jquery.easing.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/js/site.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\js\\site.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1363,13 +1363,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/site.js"
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1382,13 +1382,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1401,13 +1401,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1420,13 +1420,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1439,13 +1439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1458,13 +1458,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1477,13 +1477,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1496,13 +1496,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1515,13 +1515,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1534,13 +1534,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1553,13 +1553,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1572,13 +1572,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1591,13 +1591,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1610,13 +1610,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1629,13 +1629,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1648,13 +1648,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1667,13 +1667,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1686,13 +1686,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1705,13 +1705,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1724,13 +1724,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1743,13 +1743,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1762,13 +1762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1781,13 +1781,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1800,13 +1800,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1819,13 +1819,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1838,13 +1838,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1857,13 +1857,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1876,13 +1876,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1895,13 +1895,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1914,13 +1914,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1933,13 +1933,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1952,13 +1952,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1971,13 +1971,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1990,13 +1990,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2009,13 +2009,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2028,13 +2028,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2047,13 +2047,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2066,13 +2066,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2085,13 +2085,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2104,13 +2104,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2123,13 +2123,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2142,13 +2142,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2161,13 +2161,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2180,13 +2180,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2199,13 +2199,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2218,13 +2218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2237,13 +2237,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2256,13 +2256,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2275,13 +2275,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2294,13 +2294,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2313,13 +2313,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2332,13 +2332,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2351,13 +2351,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2370,13 +2370,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2389,13 +2389,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2408,13 +2408,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2427,13 +2427,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2446,13 +2446,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/move-top.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\move-top.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "move-top.js",
       "AssetKind": "All",
@@ -2465,13 +2465,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/move-top.js"
+      "OriginalItemSpec": "wwwroot\\move-top.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/script.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\script.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "script.js",
       "AssetKind": "All",
@@ -2484,13 +2484,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/script.js"
+      "OriginalItemSpec": "wwwroot\\script.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/slides.min.jquery.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\slides.min.jquery.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "slides.min.jquery.js",
       "AssetKind": "All",
@@ -2503,13 +2503,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/slides.min.jquery.js"
+      "OriginalItemSpec": "wwwroot\\slides.min.jquery.js"
     },
     {
-      "Identity": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/startstop-slider.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\startstop-slider.js",
       "SourceId": "TestAtHome2",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anntl/RiderProjects/TestAtHome2/TestAtHome2/wwwroot/",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\LTW\\TestAtHome2\\TestAtHome2\\wwwroot\\",
       "BasePath": "_content/TestAtHome2",
       "RelativePath": "startstop-slider.js",
       "AssetKind": "All",
@@ -2522,7 +2522,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/startstop-slider.js"
+      "OriginalItemSpec": "wwwroot\\startstop-slider.js"
     }
   ]
 }

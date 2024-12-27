@@ -1,0 +1,26 @@
+1. Add các thư viện
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet tool install --global dotnet-ef
+2. Generate models and dbcontext 
+dotnet ef dbcontext scaffold "Server=localhost;Database=QLHangHoa;User Id=sa;Password=123a;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -o Models
+3. Add config database vào dự án (Thêm dưới cùng của file thì cần thêm dấu , ở trước)
+3.1 Vào file appsettings.json và thêm config
+  "ConnectionStrings": {
+    "QLHangHoaContext": "Server=localhost;Database=QLHangHoa;User Id=sa;Password=123a;TrustServerCertificate=true;"
+  }
+  
+3.2 Vào file Program.cs và thêm config (Phần này viết ở dưới dòng var builder = WebApplication.CreateBuilder(args);)
+builder.Services.AddDbContext<QlhangHoaContext>(options => options
+    .UseSqlServer(builder.Configuration.GetConnectionString("QLHangHoaContext")));	
+
+4.Comment dòng warning ở file QlHangHoaContext vừa generate
+ví dụ: #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
+
+dotnet aspnet-codegenerator controller -name HangHoaController -m HangHoa -dc QLHangHoaContext -outDir Controllers -views
+
+dotnet aspnet-codegenerator controller -name HangHoaController -m HangHoa -dc QLHangHoaContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries --outDir Views
+
+

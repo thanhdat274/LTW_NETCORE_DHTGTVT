@@ -1,0 +1,34 @@
+﻿@inject QlhangHoaContext db
+
+@{
+var loaiHangs = db.LoaiHangs.ToList();
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+</head>
+<body>
+<!-- Begin Wrap -->
+<div class="wrap">
+    <!-- Begin Header -->
+    @await Html.PartialAsync("NguyenAn_Header", loaiHangs)
+    <!-- End Header -->
+    <!-- Begin Main -->
+    @RenderBody()
+    <!-- End Main -->
+</div>
+<!-- End Wrap -->
+<!-- Begin Footer -->
+@await Html.PartialAsync("NguyenAn_Footer")
+<!-- End Footer -->
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
